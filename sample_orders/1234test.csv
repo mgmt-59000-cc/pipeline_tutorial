@@ -1,0 +1,2 @@
+order_id,timestamp,order_type,customer_id,shipping_state,product_name,product_category,quantity,unit_price,total_amount,assigned_warehouse,shipping_priority
+ORD-202410-0004,2024-10-31 21:13:06,B2C,CUST-1024,OR,Laptop,Electronics,4,525.96,2103.84,WEST,Express
