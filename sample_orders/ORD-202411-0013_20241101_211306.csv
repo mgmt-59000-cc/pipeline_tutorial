@@ -1,0 +1,2 @@
+order_id,timestamp,order_type,customer_id,shipping_state,product_name,product_category,quantity,unit_price,total_amount,assigned_warehouse,shipping_priority
+ORD-202411-0013,2024-11-01 21:13:06,B2C,CUST-1174,CA,T-shirt,Fashion,8,256.69,2053.52,WEST,Next Day

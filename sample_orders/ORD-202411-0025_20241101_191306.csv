@@ -1,0 +1,2 @@
+order_id,timestamp,order_type,customer_id,shipping_state,product_name,product_category,quantity,unit_price,total_amount,assigned_warehouse,shipping_priority
+ORD-202411-0025,2024-11-01 19:13:06,B2C,CUST-6175,CA,Coffee Maker,Home,6,302.32,1813.92,WEST,Standard

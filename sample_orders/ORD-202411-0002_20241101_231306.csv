@@ -1,0 +1,2 @@
+order_id,timestamp,order_type,customer_id,shipping_state,product_name,product_category,quantity,unit_price,total_amount,assigned_warehouse,shipping_priority
+ORD-202411-0002,2024-11-01 23:13:06,B2B,CUST-9999,NV,Fiction Paperback,Books,3,387.76,1163.28,WEST,Standard

@@ -1,0 +1,2 @@
+order_id,timestamp,order_type,customer_id,shipping_state,product_name,product_category,quantity,unit_price,total_amount,assigned_warehouse,shipping_priority
+ORD-202411-0021,2024-11-02 15:13:06,B2B,CUST-2140,WA,Cookbook,Books,9,763.27,6869.43,WEST,Express

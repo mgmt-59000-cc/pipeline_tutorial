@@ -1,0 +1,2 @@
+order_id,timestamp,order_type,customer_id,shipping_state,product_name,product_category,quantity,unit_price,total_amount,assigned_warehouse,shipping_priority
+ORD-202411-0050,2024-11-02 13:13:06,B2C,CUST-9088,OR,Smartphone,Electronics,6,897.4,5384.4,WEST,Express

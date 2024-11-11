@@ -1,0 +1,2 @@
+order_id,timestamp,order_type,customer_id,shipping_state,product_name,product_category,quantity,unit_price,total_amount,assigned_warehouse,shipping_priority
+ORD-202411-0022,2024-11-02 04:13:06,B2C,CUST-6584,MA,Sneakers,Fashion,9,561.73,5055.57,EAST,Next Day

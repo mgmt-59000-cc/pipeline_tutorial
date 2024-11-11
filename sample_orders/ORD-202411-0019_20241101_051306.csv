@@ -1,0 +1,2 @@
+order_id,timestamp,order_type,customer_id,shipping_state,product_name,product_category,quantity,unit_price,total_amount,assigned_warehouse,shipping_priority
+ORD-202411-0019,2024-11-01 05:13:06,B2B,CUST-1577,FL,Laptop,Electronics,2,960.98,1921.96,EAST,Standard

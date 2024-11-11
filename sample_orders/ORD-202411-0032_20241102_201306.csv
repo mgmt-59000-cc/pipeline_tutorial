@@ -1,0 +1,2 @@
+order_id,timestamp,order_type,customer_id,shipping_state,product_name,product_category,quantity,unit_price,total_amount,assigned_warehouse,shipping_priority
+ORD-202411-0032,2024-11-02 20:13:06,B2B,CUST-8027,MI,Fiction Paperback,Books,4,913.52,3654.08,CENTRAL,Next Day

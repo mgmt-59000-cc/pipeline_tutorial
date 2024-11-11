@@ -1,0 +1,2 @@
+order_id,timestamp,order_type,customer_id,shipping_state,product_name,product_category,quantity,unit_price,total_amount,assigned_warehouse,shipping_priority
+ORD-202411-0001,2024-11-02 02:20:38,B2B,CUST-6753,WA,Bedding Set,Home,6,827.52,4965.12,WEST,Standard

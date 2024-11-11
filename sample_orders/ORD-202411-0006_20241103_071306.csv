@@ -1,0 +1,2 @@
+order_id,timestamp,order_type,customer_id,shipping_state,product_name,product_category,quantity,unit_price,total_amount,assigned_warehouse,shipping_priority
+ORD-202411-0006,2024-11-03 07:13:06,B2B,CUST-9256,NY,Fiction Paperback,Books,1,24.44,24.44,EAST,Standard
